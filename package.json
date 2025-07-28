@@ -1,0 +1,24 @@
+{
+  "name": "amz-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "121-best-time-stock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScorpionConMate/amz-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ScorpionConMate/amz-practice/issues"
+  },
+  "homepage": "https://github.com/ScorpionConMate/amz-practice#readme",
+  "devDependencies": {
+    "@types/node": "^24.1.0"
+  }
+}
